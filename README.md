@@ -8,7 +8,7 @@ c:\repository
 
 cd c:\repository
 
-## Install Laravel
+## Step 1 — Downloading Laravel and Installing Dependencies
 
 git clone https://github.com/laravel/laravel.git laravel-app
 
