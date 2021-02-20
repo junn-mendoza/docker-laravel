@@ -9,7 +9,6 @@ c:\repository
 cd c:\repository
 
 ## Step 1 — Downloading Laravel and Installing Dependencies
-
 git clone https://github.com/laravel/laravel.git laravel-app
 
 - Now we will work on linux terminal using wsl 2 in windows
