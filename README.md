@@ -69,7 +69,7 @@ services:
             - "3307:3307"
         environment:
             MYSQL_DATABASE: laravel-app
-            MYSQL_ROOT_PASSWORD: Imog3n@305
+            MYSQL_ROOT_PASSWORD: your_root_db_password
         volumes:
             - dbdata:/var/lib/mysql
             - ./docker-files/mysql/my.cnf:/etc/mysql/my.cnf
