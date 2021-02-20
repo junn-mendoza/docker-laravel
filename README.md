@@ -262,4 +262,3 @@ next...
 
 mysql> EXIT;
 ```
-
